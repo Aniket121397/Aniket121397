@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aniket121397
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Full Stack Development
 - 📫 How to reach me - aniket121397@gmail.com
 
 <!---
