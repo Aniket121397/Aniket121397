@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aniket121397
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Data Analytics
 - 📫 How to reach me - aniket121397@gmail.com
 
 <!---
