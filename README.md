@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aniket121397
-- 👀 I’m interested in Data Analytics
+- 👀 Data Analyst
 - 📫 How to reach me - aniket121397@gmail.com
 
 <!---
